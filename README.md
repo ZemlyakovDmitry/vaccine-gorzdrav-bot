@@ -11,9 +11,9 @@ git clone https://github.com/ZemlyakovDmitry/vaccine-gorzdrav-bot.git
 4. В файле config.py заполните всё необходимое
 lpu и specciality берутся из url нужной поликлиники 
 ![firefox_owvMYsIiO0](https://user-images.githubusercontent.com/29678249/151583551-6eae055b-07e7-4d79-a0eb-7c7140d8d975.png)
-5. Установите зависимости и запустите бота
-????
-Profit!
+5. Установите зависимости и запустите бота  
+????  
+Profit!  
 
 
 ##
